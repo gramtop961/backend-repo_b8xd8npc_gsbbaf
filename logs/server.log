@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [158] using StatReload
-INFO:     Started server process [160]
+INFO:     Started reloader process [215] using StatReload
+INFO:     Started server process [217]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:54044 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:54052 - "GET /api/butcher/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54068 - "GET /api/butcher/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54062 - "GET /api/grocery/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54064 - "GET /api/grocery/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34882 - "GET /api/butcher/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34888 - "GET /api/grocery/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34896 - "GET /api/butcher/raw HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34898 - "GET /api/grocery/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56818 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:56824 - "GET /api/butcher/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56854 - "GET /api/grocery/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56836 - "GET /api/grocery/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56842 - "GET /api/butcher/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39822 - "GET /api/butcher/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39824 - "GET /api/grocery/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39828 - "GET /api/grocery/raw HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39844 - "GET /api/butcher/raw HTTP/1.1" 200 OK
